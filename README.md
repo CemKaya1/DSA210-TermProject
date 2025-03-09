@@ -1,1 +1,46 @@
 # DSA210-TermProject
+#  Second-Hand Car Price Analysis  
+
+##  Objective  
+This project aims to find out what affects the prices of second-hand cars. By collecting data on different car models, mileage, brands, accident history, and more, I will look for patterns that impact car prices.  
+
+##  Why This Project?  
+I'm currently looking to buy a second-hand car, and I’ve noticed that prices can vary a lot. This project will help me (and others) understand which factors make a car more expensive or cheaper.  
+
+##  Data Collection  
+- **Where will the data come from?** I will collect data by web scraping second-hand car listing websites.  
+- **What information will I collect?**  
+  - Car brand and model  
+  - Year of manufacture  
+  - Mileage (km)  
+  - Accident history (if available)  
+  - Number of previous owners  
+  - Fuel type (gasoline, diesel, electric, etc.)  
+  - Transmission type (manual or automatic)  
+  - Price (this is the main thing I want to analyze)  
+
+##  Tools & Technologies  
+- **Python** for working with data  
+- **Pandas** to organize and analyze the dataset  
+- **Matplotlib & Seaborn** to create charts and graphs  
+- **BeautifulSoup/Selenium** for web scraping  
+
+##  How Will I Analyze the Data?  
+1. **Collect Data:** Get car listings from different websites.  
+2. **Clean Data:** Remove missing or incorrect values and make sure the data is structured properly.  
+3. **Explore the Data:**  
+   - Check how price changes with mileage, brand, and other factors.  
+   - Create graphs to visualize trends.  
+4. **Test Hypotheses:**  
+   - Does a higher mileage lower the price?  
+   - Do accident-free cars sell for more?  
+   - Which brands hold their value the longest?  
+5. **Findings & Conclusions:** Summarize the key takeaways.  
+
+##  Example Analysis & What I Expect to Find  
+For example, I might create a scatter plot to see if cars with more mileage are always cheaper. I expect to find that cars with fewer kilometers and no accidents are worth more, but some brands might keep their value better than others.  
+
+## Possible Future Improvements  
+- Collecting data from more websites to get better results  
+- Using machine learning to predict car prices based on the data  
+- Adding extra details like service history and location-based price differences  
