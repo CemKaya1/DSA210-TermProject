@@ -1,10 +1,10 @@
 # DSA210-TermProject -> Second-Hand Car Price Analysis  
 
 ##  Objective  
-This project aims to find out what affects the prices of second-hand cars. By collecting data on different car models, mileage, brands, accident history, and more, I will look for patterns that impact car prices.  
+This project aims to find out what affects the prices of second-hand cars by how much. By collecting data on different car models, mileage, brands, accident history, and more, I will look for patterns that impact car prices and how much it affects them. I will also investigate how a brand's value affects the weight of these data points' effects.
 
 ##  Motivation  
-I'm currently looking to buy a second-hand car, and I’ve noticed that prices can vary a lot and decided to make it a little bit more scientific to determine whether a price is appropriate for the given car so that I don't buy an overpriced car. This project will help me (and others) understand which factors make a car more expensive or cheaper and prevent us from losing unnecesary money.  
+I'm currently looking to buy a second-hand car, and I’ve noticed that prices can vary a lot and decided to make it a little bit more scientific to determine whether a price is appropriate for the given car or not so that I don't buy an overpriced car. This project will help me (and others) understand which factors make a car more expensive or cheaper and prevent us from paying unnecesary money.  
 
 ##  Data Collection  
 - **Where will the data come from?** I will collect data by web scraping second-hand car listing websites.  
@@ -37,7 +37,8 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
 5. **Findings & Conclusions:** Summarize the key takeaways.  
 
 ##  Example Analysis & What I Expect to Find  
-For example, I might create a scatter plot to see if cars with more mileage are always cheaper. I expect to find that cars with fewer kilometers and no accidents are worth more, but some brands might keep their value better than others.  
+As an example, I might create a scatter plot to see if cars with more mileage are always cheaper. 
+I expect to find that cars with fewer kilometers and no accidents are worth more, but some brands might keep their value better than others.  
 
 ## Possible Future Improvements  
 - Collecting data from more websites to get better results  
