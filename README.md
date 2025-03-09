@@ -1,11 +1,10 @@
-# DSA210-TermProject
-#  Second-Hand Car Price Analysis  
+# DSA210-TermProject -> Second-Hand Car Price Analysis  
 
 ##  Objective  
 This project aims to find out what affects the prices of second-hand cars. By collecting data on different car models, mileage, brands, accident history, and more, I will look for patterns that impact car prices.  
 
-##  Why This Project?  
-I'm currently looking to buy a second-hand car, and I’ve noticed that prices can vary a lot. This project will help me (and others) understand which factors make a car more expensive or cheaper.  
+##  Motivation  
+I'm currently looking to buy a second-hand car, and I’ve noticed that prices can vary a lot and decided to make it a little bit more scientific to determine whether a price is appropriate for the given car so that I don't buy an overpriced car. This project will help me (and others) understand which factors make a car more expensive or cheaper and prevent us from losing unnecesary money.  
 
 ##  Data Collection  
 - **Where will the data come from?** I will collect data by web scraping second-hand car listing websites.  
@@ -14,7 +13,7 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
   - Year of manufacture  
   - Mileage (km)  
   - Accident history (if available)  
-  - Number of previous owners  
+  - How many of the given car model is on the market currently (rarity) 
   - Fuel type (gasoline, diesel, electric, etc.)  
   - Transmission type (manual or automatic)  
   - Price (this is the main thing I want to analyze)  
@@ -32,9 +31,9 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
    - Check how price changes with mileage, brand, and other factors.  
    - Create graphs to visualize trends.  
 4. **Test Hypotheses:**  
-   - Does a higher mileage lower the price?  
-   - Do accident-free cars sell for more?  
-   - Which brands hold their value the longest?  
+   - Which characteristic of a car determines its price the most?
+   - Which brands hold their value the longest?
+   - Will X brand's car keep its value compared to Y brand's car until Y's car shows enough flaws?
 5. **Findings & Conclusions:** Summarize the key takeaways.  
 
 ##  Example Analysis & What I Expect to Find  
