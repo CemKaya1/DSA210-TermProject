@@ -29,11 +29,16 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
 2. **Clean Data:** Remove missing or incorrect values and make sure the data is structured properly.  
 3. **Explore the Data:**  
    - Check how price changes with mileage, brand, and other factors.  
-   - Create graphs to visualize trends.  
+   - Create graphs to visualize trends.
+   - Estimate a **market price value** for different car models based on key factors.  
+   - Compare actual listing prices to the estimated market price to see if they are overpriced or underpriced.  
 4. **Test Hypotheses:**  
    - Which characteristic of a car determines its price the most?
    - Which brands hold their value the longest?
    - Will X brand's car keep its value compared to Y brand's car until Y's car shows enough flaws?
+   - Can I estimate a fair market price for a car based on key attributes?  
+   - Are some car listings significantly overpriced or underpriced compared to the estimated market price?  
+
 5. **Findings & Conclusions:** Summarize the key takeaways.  
 
 ##  Example Analysis & What I Expect to Find  
