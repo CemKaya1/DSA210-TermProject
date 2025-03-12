@@ -7,7 +7,7 @@ This project aims to find out what affects the prices of second-hand cars by how
 I'm currently looking to buy a second-hand car, and I’ve noticed that prices can vary a lot and decided to make it a little bit more scientific to determine whether a price is appropriate for the given car or not so that I don't buy an overpriced car. This project will help me (and others) understand which factors make a car more expensive or cheaper and prevent us from paying unnecesary money.  
 
 ##  Data Collection  
-- **Where will the data come from?** I will collect data by web scraping second-hand car listing websites.  
+- **Where will the data come from?** I found a second hand car listings data from kaggle.  
 - **What information will I collect?**  
   - Car brand and model  
   - Year of manufacture  
@@ -25,7 +25,7 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
 - **BeautifulSoup/Selenium** for web scraping  
 
 ##  How Will I Analyze the Data?  
-1. **Collect Data:** Get car listings from different websites.  
+1. **Collect Data:** Get car listings data from kaggle.  
 2. **Clean Data:** Remove missing or incorrect values and make sure the data is structured properly.  
 3. **Explore the Data:**  
    - Check how price changes with mileage, brand, and other factors.  
@@ -43,7 +43,7 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
 
 ##  Example Analysis & What I Expect to Find  
 As an example, I might create a scatter plot to see if cars with more mileage are always cheaper. 
-I expect to find that cars with fewer kilometers and no accidents are worth more, but some brands might keep their value better than others.  
+**"The price sensitivity to mileage changes across different car brands, with luxury and performance brands showing lower decrease per kilometer compared to economy brands."**  
 
 ## Possible Future Improvements  
 - Collecting data from more websites to get better results  
