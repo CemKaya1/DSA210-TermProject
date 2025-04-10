@@ -7,8 +7,11 @@ This project aims to find out what affects the prices of second-hand cars by how
 I'm currently looking to buy a second-hand car, and I’ve noticed that prices can vary a lot and decided to make it a little bit more scientific to determine whether a price is appropriate for the given car or not so that I don't buy an overpriced car. This project will help me (and others) understand which factors make a car more expensive or cheaper and prevent us from paying unnecesary money.  
 
 ##  Data Collection  
-- **Where will the data come from?** I found a second hand car listings data from kaggle.  
-- **What information will I collect?**  
+- **Where will the data come from?** I combined two second hand car listings data that I found from kaggle.
+- Sources:
+- https://www.kaggle.com/datasets/erenakbulut/user-car-prices-barcelona-2022
+- https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression
+- **What information is present in my dataset?**  
   - Car brand and model  
   - Year of manufacture  
   - Mileage (km)  
@@ -22,10 +25,10 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
 - **Python** for working with data  
 - **Pandas** to organize and analyze the dataset  
 - **Matplotlib & Seaborn** to create charts and graphs  
-- **BeautifulSoup/Selenium** for web scraping  
+- **BeautifulSoup/Selenium** for potential web scraping (if it will be necessary)
 
 ##  How Will I Analyze the Data?  
-1. **Collect Data:** Get car listings data from kaggle.  
+1. **Collect Data:** I will use the car listings data I gathered from different sources in kaggle.  
 2. **Clean Data:** Remove missing or incorrect values and make sure the data is structured properly.  
 3. **Explore the Data:**  
    - Check how price changes with mileage, brand, and other factors.  
