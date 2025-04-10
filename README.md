@@ -7,8 +7,7 @@ This project aims to find out what affects the prices of second-hand cars by how
 I'm currently looking to buy a second-hand car, and I’ve noticed that prices can vary a lot and decided to make it a little bit more scientific to determine whether a price is appropriate for the given car or not so that I don't buy an overpriced car. This project will help me (and others) understand which factors make a car more expensive or cheaper and prevent us from paying unnecesary money.  
 
 ##  Data Collection  
-- **Where will the data come from?** I combined two second hand car listings data that I found from kaggle.
-- Sources:
+- **Where will the data come from?** I combined two second hand car listings data that I found from kaggle. The data sources:
 - https://www.kaggle.com/datasets/erenakbulut/user-car-prices-barcelona-2022
 - https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression
 - **What information is present in my dataset?**  
