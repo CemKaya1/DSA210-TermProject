@@ -15,7 +15,7 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
   - Fuel type (gasoline, diesel, electric, etc.)  
   - Price (this is the main thing I want to analyze)
   - Location
-   *Feature Transformation and Enrichment:*
+    **Feature Transformation and Enrichment:**
   - car_age
   - brand_classification (luxury,economy..)
   - log_price
@@ -25,6 +25,7 @@ The data sources used in the making are:
 - https://www.kaggle.com/datasets/erenakbulut/user-car-prices-barcelona-2022
 - https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression
 My Data Set:
+https://github.com/CemKaya1/DSA210-TermProject/blob/main/used_cars_data_dsa.csv
 
 ##  Tools & Technologies  
 - **Python** for working with data  
