@@ -15,17 +15,20 @@ I'm currently looking to buy a second-hand car, and I’ve noticed that prices c
   - Fuel type (gasoline, diesel, electric, etc.)  
   - Price (this is the main thing I want to analyze)
   - Location
-    **Feature Transformation and Enrichment:**
-  - car_age
-  - brand_classification (luxury,economy..)
-  - log_price
-  - log_mileage
-  - price_per_km
-The data sources used in the making are:
+  - **Feature Transformation and Enrichment:**
+    - car_age
+    - brand_classification (luxury,economy..)
+    - log_price
+    - log_mileage
+    - price_per_km
+
+#### My Data Set:
+https://github.com/CemKaya1/DSA210-TermProject/blob/main/used_cars_data_dsa.csv
+
+**The data sources used in the making are:**
 - https://www.kaggle.com/datasets/erenakbulut/user-car-prices-barcelona-2022
 - https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression
-My Data Set:
-https://github.com/CemKaya1/DSA210-TermProject/blob/main/used_cars_data_dsa.csv
+
 
 ##  Tools & Technologies  
 - **Python** for working with data  
@@ -37,8 +40,8 @@ https://github.com/CemKaya1/DSA210-TermProject/blob/main/used_cars_data_dsa.csv
 1. **Collect Data:** I will use the car listings data I gathered from different sources in kaggle.  
 2. **Clean Data:** Remove missing or incorrect values and make sure the data is structured properly.  
 3. **Explore the Data:**  
-   - Check how price changes with mileage, brand, and other factors.  
-   - Create graphs to visualize trends.
+   - Check how price changes with mileage, brand, and other factors using bivariate analysis.  
+   - Create graphs to visualize trends and detect correlations.
    - Estimate a **market price value** for different car models based on key factors.  
    - Compare actual listing prices to the estimated market price to see if they are overpriced or underpriced.  
 4. **Test Hypotheses:**  
