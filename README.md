@@ -44,18 +44,18 @@ https://github.com/CemKaya1/DSA210-TermProject/blob/main/used_cars_data_dsa.csv
    - Create graphs to visualize trends and detect correlations.
    - Estimate a **market price value** for different car models based on key factors.  
    - Compare actual listing prices to the estimated market price to see if they are overpriced or underpriced.  
-4. **Test Hypotheses:**  
-   - Which characteristic of a car determines its price the most?
+4. **Test Hypotheses:**
+   - "The price sensitivity to mileage changes across different car brands, with luxury brands showing higher decrease per kilometer               compared to economy brands."
    - Which brands hold their value the longest?
-   - Will X brand's car keep its value compared to Y brand's car until Y's car shows enough flaws?
    - Can I estimate a fair market price for a car based on key attributes?  
    - Are some car listings significantly overpriced or underpriced compared to the estimated market price?  
 
-5. **Findings & Conclusions:** Summarize the key takeaways.  
+6. **Findings & Conclusions:** Summarize the key takeaways.  
 
 ##  Example Analysis & What I Expect to Find  
-As an example, I might create a scatter plot to see if cars with more mileage are always cheaper. 
-**"The price sensitivity to mileage changes across different car brands, with luxury and performance brands showing lower decrease per kilometer compared to economy brands."**  
+Example Analysis: As an example, I might create a scatter plot to see if cars with more mileage are always cheaper.
+
+What i expect to find: **"The price sensitivity to mileage changes across different car brands, with luxury brands showing higher decrease per kilometer compared to economy brands."**  
 
 ## Possible Future Improvements  
 - Collecting data from more websites to get better results  
