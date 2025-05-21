@@ -58,7 +58,17 @@ Example Analysis: As an example, I might create a scatter plot to see if cars wi
 
 What i expect to find: **"The price sensitivity to mileage changes across different car brands, with luxury brands showing higher decrease per kilometer compared to economy brands."**  
 
+## Explatory Anlalysis Findings
+
+Exploratory Analysis Results
+Our exploratory analysis revealed a significant correlation between a car's brand category (luxury vs. economy) and its price sensitivity to increased mileage. The p-value from our statistical test was effectively 0.000, allowing us to confidently reject the Null Hypothesis at the 0.05 significance level.
+
+The most influential factor affecting car price was car age, followed closely by mileage. Notably, luxury brands exhibited greater value loss with higher mileage compared to economy brands. Among individual brands, Kia (economy) held its value best, while BMW (luxury) showed the steepest depreciation.
+
+Overall, while mileage and age impact all car prices, the degree of that impact varies significantly by brand—insights we quantified in detail across different manufacturers.
+
+
+
 ## Possible Future Improvements  
 - Collecting data from more websites to get better results  
-- Using machine learning to predict car prices based on the data  
 - Adding extra details like service history and location-based price differences  
